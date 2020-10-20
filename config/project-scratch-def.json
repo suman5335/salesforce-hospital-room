@@ -2,9 +2,6 @@
     "orgName": "Hospital Room Management",
     "edition": "Developer",
     "orgPreferences" : {
-        "settings": {
-            
-            }
+        "settings": { }
         }
-    }
 }
